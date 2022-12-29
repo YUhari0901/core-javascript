@@ -75,3 +75,19 @@ number++;
 
 let count = 10;
 let total = (count % 4) * (count /= 2) + count ** 3; // ?
+
+
+
+let count = 10;
+let total = count % 4// * 
+
+count = count / 2; // +
+
+let countPower3 = count ** 3;
+
+
+total = total * count + countPower3;
+
+
+console.log(total);
+
