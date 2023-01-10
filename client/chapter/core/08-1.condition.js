@@ -15,20 +15,15 @@ let didWatchMovie = '응';
 // 영화 볼거니?
 let goingToWatchMovie= '아니';
 
-if (didWatchMovie == '응') { console.log ("오케이~혼자볼게")
-
+if (didWatchMovie == '응'){
+console.log('그거 존잼이더라')
 }
-else if (didWatchMovie=='아니'){  console.log ("영화 보러갈래?")
-
+else if (goingToWatchMovie =='그래! 쿨'){
+    console.log('예! 토요일에 볼까?')
 }
-
-else if (goingToWatchMovie == '응') {  console.log ("금요일에 어때?")
-
+else{
+    console.log('오키~~')
 }
-else(){
-
-}
-
 
 // if 문(statement)
 
