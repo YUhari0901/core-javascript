@@ -129,7 +129,7 @@ let result = await delayA()
 
 
 
-
+/* 
 async function 라면끓이기(){
 
   await delayP(1500)
@@ -153,7 +153,7 @@ async function 라면끓이기(){
 
 
 라면끓이기()
-
+ */
 
 
 
